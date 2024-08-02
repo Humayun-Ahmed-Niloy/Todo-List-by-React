@@ -1,0 +1,18 @@
+header{
+    background-image: url("../Imgs/navimage.jpg");
+    background-size: cover;
+    width: 80%;
+    margin: 0 auto;
+    height: 10%;
+}
+
+.logo{
+    position: relative;
+    top: 10%;
+    left: 1%;
+    background-image: url("../Imgs/logo.jpg");
+    width: 3rem;
+    height: 3rem;
+    background-size: cover;
+    border-radius: 50%;
+}

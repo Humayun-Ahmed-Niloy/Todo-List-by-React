@@ -1,0 +1,50 @@
+.add{
+    margin: 0 auto;
+    height: auto;
+    width: 80%;
+    margin-top: 5rem;
+    box-shadow: 2px 2px 3px 0.2px rgba(10, 10, 10, 0.2);
+    padding-bottom: 2rem;
+    text-align: center;
+}
+
+.MainTask{
+    width: 60%;
+    padding: 0.5rem;
+    border-radius: 0.5rem;
+    border: 0.5px solid rgb(30, 255, 236);
+}
+
+.reset{
+    background-color: red;
+    width: 4rem;
+    height: 1.8rem;
+    border: none;
+    color: white;
+    background-color: rgb(14, 156, 156);
+    border-radius: 4px;
+    transition: 0.4s;
+    margin: 0rem 1rem;
+}
+
+button{
+    border: none;
+    color: white;
+    width: 4rem;
+    height: 1.8rem;
+    background-color: rgb(14, 156, 156);
+    border-radius: 4px;
+    transition: 0.4s;
+    left: 2rem;
+}
+
+.submit{
+
+}
+
+.sel{
+    margin-left: 1rem;
+    width: 6rem;
+    height: 1.8rem;
+    border-color: rgb(14, 156, 156);
+}
